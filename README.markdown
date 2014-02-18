@@ -3,7 +3,7 @@ grunt-init-themouette-frontend
 
 Simple grunt template for a frontend application.
 
-See [Getting started guide](doc/getting-statded.md) to learn how to customize
+See [Getting started guide](doc/getting-started.md) to learn how to customize
 build.
 
 ## Build the project
